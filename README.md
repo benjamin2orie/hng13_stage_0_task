@@ -52,7 +52,7 @@ This project is a Nodejs/express ApI:
 }
 
 # Rich Link:
-["https://medium.com/post]
+  Rich Link: ["https://medium.com/@ogechukwubenj/readm-as-a-good-practice-7a96519c0f7c"]
 
 
    
