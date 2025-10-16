@@ -16,7 +16,7 @@ This project is a Nodejs/express ApI:
 # Api Documentation:
  swagger-ui-express – Swagger UI middleware
  swagger-jsdoc – Generate OpenAPI spec from JSDoc comments
- url = <http://localhost:4000/api-docs>
+ swagger_url = <https://hng13stage0task-production.up.railway.app//api-docs>
 
 # Security & Stability:
   express-rate-limit – Protect endpoints from abuse
@@ -33,8 +33,8 @@ This project is a Nodejs/express ApI:
 
 
 # Setp Installation Guide:
- git clone <your-repo-url>
- cd <your-project>
+ git clone <https://github.com/benjamin2orie/hng13_stage_0_task>
+ cd <hng13_stage_0_task>
  npm install
  npm run dev
 

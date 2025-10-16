@@ -13,6 +13,10 @@ const options ={
                 url: 'http://localhost:4000',
                 description: 'Development server',
             },
+            {
+                url: 'https://hng13stage0task-production.up.railway.app',
+                description: 'Production server',
+            }
         ],
     },
     apis: ['./src/route/*.ts', './src/model/*.ts'], // Path to the API docs
