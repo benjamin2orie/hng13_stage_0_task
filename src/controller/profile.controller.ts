@@ -27,7 +27,7 @@ import axios from "axios";
         res.status(200).json({ 
             status: "success",
             user: user,
-            timeStamps,
+            timestamp: timeStamps,
             fact
         }); // Send fact data as a JSON response
     } catch (error) {
